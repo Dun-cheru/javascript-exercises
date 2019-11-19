@@ -58,7 +58,7 @@ describe("functions", function() {
 
             ////////////////////////////////////////////////////////////////////
             // ✏️ EDIT LINE BELOW ✏️
-                  // why is myFunction not callable?
+            otherFunction();// why is myFunction not callable?
             ////////////////////////////////////////////////////////////////////
         });
     });
